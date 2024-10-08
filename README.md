@@ -1,6 +1,3 @@
-Here’s a sample `README.md` for your products app built with the MERN stack:
-
-```markdown
 # Products App
 
 A full-stack Products Management Application built using the MERN (MongoDB, Express, React, Node.js) stack. This app allows users to browse, add, update, and delete products. It provides a user-friendly interface on the frontend and a powerful API on the backend.
